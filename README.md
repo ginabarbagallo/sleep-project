@@ -1,4 +1,4 @@
-# sleep-project
+# Sleep Project
 Understanding the characteristics of individuals with sleep disorders. 
 
 ### This Repository contains the following files:
@@ -7,3 +7,5 @@ Understanding the characteristics of individuals with sleep disorders.
 
 ## GOAL: 
 This project aims to understand the characteristics of people with sleeping disorders and identify if certain characteristics make them more prone to them. 
+
+## METHODOLOGY:
