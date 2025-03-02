@@ -6,6 +6,11 @@ Understanding the characteristics of individuals with sleep disorders.
 2. Sleep Project: The code I used to obtain my results
 
 ## GOAL: 
-This project aims to understand the characteristics of people with sleeping disorders and identify if certain characteristics make them more prone to them. 
+This project aims to understand the characteristics of people with sleeping disorders and identify if certain characteristics make them more prone to them. The model created can accurately predict if a person has a sleeping disorder. 
+
+## DATA DESCRIPTION: 
 
 ## METHODOLOGY:
+
+## RESULTS 
+
