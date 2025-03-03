@@ -1,4 +1,4 @@
-# Sleep Project (IN PROGRESS!)
+# Sleep Project 
 Understanding the characteristics of individuals with sleep disorders. 
 
 ### This Repository contains the following files:
