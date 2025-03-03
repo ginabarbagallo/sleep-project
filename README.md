@@ -23,6 +23,5 @@ The data contains 219 individuals who do not have a sleeping disorder and 155 in
 11. Daily Steps
 
 ## METHODOLOGY:
-
-## RESULTS 
+After imputing missing values and encoding categorical variables, I created a random forest model with disorder binary as the target variable. This identifies the individuals in the dataset that have a sleeping disorder with a 1 and the others with a 0. The model uses training and testing data to predict the target variable accurately.
 
